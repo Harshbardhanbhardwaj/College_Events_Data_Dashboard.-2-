@@ -1,0 +1,21 @@
+Event_ID,Event_Name,Department,Event_Type,Date,Participants,Budget,Feedback
+101,CodeSprint,CSE,Technical,2024-11-10,120,5000,Great learning experience!
+102,ArtAttack,Arts,Cultural,2024-12-01,80,3000,Fun and colorful event.
+103,VolleyFest,Sports,Sports,2025-01-15,200,7000,Exciting matches and crowd.
+104,Robowars,ECE,Technical,2024-10-05,95,6000,Amazing robotics skills showcased.
+105,DJ Night,Management,Cultural,2024-12-20,180,8000,Loud but enjoyable.
+106,HackThonX,CSE,Technical,2025-02-10,150,9000,Great organization and challenge.
+107,TalentHunt,Arts,Cultural,2025-03-01,70,2500,Entertaining performances.
+108,CricketMania,Sports,Sports,2025-02-20,220,10000,Thrilling tournament.
+109,CircuitStorm,ECE,Technical,2025-01-25,85,4000,Good practical exposure.
+110,BizQuiz,Management,Technical,2025-03-10,60,3500,Needed better coordination.
+111,DanceFusion,Arts,Cultural,2025-01-05,130,5000,Loved the vibe and energy.
+112,TechDebate,CSE,Technical,2024-11-15,110,4500,Informative and well-argued.
+113,PosterFest,Arts,Cultural,2025-03-20,65,2000,Good creativity but limited space.
+114,SmashHit,Sports,Sports,2024-12-15,180,8500,Great badminton matches.
+115,WebGenX,CSE,Technical,2025-02-05,140,5500,Learned a lot about web dev.
+116,FilmFiesta,Arts,Cultural,2025-01-30,100,3000,Loved the short films.
+117,SportBlitz,Sports,Sports,2024-11-25,210,9000,Fantastic crowd energy.
+118,MarketMayhem,Management,Cultural,2025-02-15,95,6000,Creative stalls and games.
+119,IoT Innovations,ECE,Technical,2025-03-05,75,4800,Interesting IoT projects.
+120,PitchIt,Management,Technical,2025-01-10,55,3700,"Good ideas, but timing was off."
